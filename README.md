@@ -20,9 +20,7 @@ Proyek ini menampilkan **jadwal pertandingan**, **klasemen sementara**, dan **to
 ✅ Top skor pemain  
 ✅ Kontak resmi UEFA  
 ✅ Desain responsif & bersih
-✅ Warna otomatis diterapkan pada tabel klasemen:
-✅ Posisi 1–8: Hijau lembut (zona lolos)
-✅ Posisi 9–16: Biru muda (zona bawah)
+✅ Warna otomatis diterapkan pada tabel klasemen
 
 ---
 
